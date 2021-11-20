@@ -1,4 +1,4 @@
-# sentiment-based-product-recommendation
+# Sentiment-based-product-recommendation
 
 Problem Statement:
 
